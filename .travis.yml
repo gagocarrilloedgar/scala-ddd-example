@@ -9,7 +9,7 @@ services:
   - docker
 
 scala:
-  - 2.12.8
+  - 2.12.15
 
 jdk:
   - openjdk11
